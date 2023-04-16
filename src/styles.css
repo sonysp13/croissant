@@ -1,0 +1,28 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+p {
+    text-align: center;
+    margin: 20px 40px;
+    font-size: 18px;
+}
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    margin: 30px 10px;
+    color: rgb(110, 186, 110);
+}
+
+img {
+    display: block;
+    margin: 30px auto;
+}
